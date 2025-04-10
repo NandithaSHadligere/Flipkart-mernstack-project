@@ -1,0 +1,339 @@
+[
+  {
+    "name": "iPhone 14 Pro Max",
+    "description": "Apple's flagship phone with A16 Bionic chip and ProMotion display.",
+    "price": 139999,
+    "cuttedPrice": 149999,
+    "category": "Mobiles",
+    "stock": 25,
+    "ratings": 4.8,
+    "numOfReviews": 320,
+    "images": [
+      {
+        "public_id": "iphone_14_pro",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744270208/th_e9jdbw.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Apple",
+      "logo": {
+        "public_id": "apple_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341122/apple-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Levi's Slim Fit Denim Jeans",
+    "description": "Classic blue slim fit denim jeans for men.",
+    "price": 2299,
+    "cuttedPrice": 2999,
+    "category": "Fashion",
+    "stock": 100,
+    "ratings": 4.3,
+    "numOfReviews": 88,
+    "images": [
+      {
+        "public_id": "levis_jeans",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/th_2_vx5mra.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Levi's",
+      "logo": {
+        "public_id": "levis_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341144/levis-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise-cancelling wireless headphones.",
+    "price": 25990,
+    "cuttedPrice": 29990,
+    "category": "Electronics",
+    "stock": 45,
+    "ratings": 4.7,
+    "numOfReviews": 122,
+    "images": [
+      {
+        "public_id": "sony_headphones",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/sony_wh1000xm5_s_wh_1000xm5_noise_canceling_wireless_over_ear_1706394_oohgen.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Sony",
+      "logo": {
+        "public_id": "sony_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341166/sony-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Wooden Wall Shelf Set",
+    "description": "Floating wall shelves for living room/home decor.",
+    "price": 1199,
+    "cuttedPrice": 1799,
+    "category": "Home",
+    "stock": 75,
+    "ratings": 4.4,
+    "numOfReviews": 34,
+    "images": [
+      {
+        "public_id": "wall_shelf",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/th_3_kvswy1.jpg"
+      }
+    ],
+    "brand": {
+      "name": "HomeStyles",
+      "logo": {
+        "public_id": "homestyles_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341188/homestyles-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "American Tourister Travel Bag",
+    "description": "Large 3-wheel trolley bag for long vacations.",
+    "price": 5399,
+    "cuttedPrice": 6999,
+    "category": "Travel",
+    "stock": 60,
+    "ratings": 4.2,
+    "numOfReviews": 61,
+    "images": [
+      {
+        "public_id": "trolley_bag",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/th_4_zdjkmq.jpg"
+      }
+    ],
+    "brand": {
+      "name": "American Tourister",
+      "logo": {
+        "public_id": "tourister_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341200/at-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Samsung 253L Frost Free Refrigerator",
+    "description": "2 Star Inverter Double Door Refrigerator (Elegant Inox)",
+    "price": 25990,
+    "cuttedPrice": 27990,
+    "category": "Appliances",
+    "stock": 25,
+    "ratings": 4.5,
+    "numOfReviews": 78,
+    "images": [
+      {
+        "public_id": "samsung_fridge",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/d5daf075-473d-4ae8-a44b-1b4bf0b6c193.__CR0_0_1464_600_PT0_SX1464_V1____u1up2w.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Samsung",
+      "logo": {
+        "public_id": "samsung_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341222/samsung-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Urban Ladder Fabric Sofa",
+    "description": "3-Seater Premium Fabric Sofa Set - Blue",
+    "price": 16999,
+    "cuttedPrice": 19999,
+    "category": "Furniture",
+    "stock": 12,
+    "ratings": 4.1,
+    "numOfReviews": 19,
+    "images": [
+      {
+        "public_id": "sofa_set",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/FNSF51CLBR3I_-_main_1_xozxvd.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Urban Ladder",
+      "logo": {
+        "public_id": "urbanladder_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341244/urbanladder-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Maybelline Fit Me Foundation",
+    "description": "Matte + Poreless Liquid Foundation (Shade: 128 Warm Nude)",
+    "price": 499,
+    "cuttedPrice": 599,
+    "category": "Beauty",
+    "stock": 150,
+    "ratings": 4.6,
+    "numOfReviews": 91,
+    "images": [
+      {
+        "public_id": "fitme_foundation",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/th_5_mrzocs.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Maybelline",
+      "logo": {
+        "public_id": "maybelline_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341266/maybelline-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "24 Mantra Organic Basmati Rice (5kg)",
+    "description": "Certified Organic, Premium Aged Basmati Rice.",
+    "price": 749,
+    "cuttedPrice": 899,
+    "category": "Grocery",
+    "stock": 40,
+    "ratings": 4.3,
+    "numOfReviews": 42,
+    "images": [
+      {
+        "public_id": "basmati_rice",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/th_6_vij3jj.jpg"
+      }
+    ],
+    "brand": {
+      "name": "24 Mantra",
+      "logo": {
+        "public_id": "24mantra_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341288/24mantra-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Atomic Habits by James Clear",
+    "description": "Best-selling book on habit building and transformation.",
+    "price": 399,
+    "cuttedPrice": 599,
+    "category": "Travel",
+    "stock": 80,
+    "ratings": 4.9,
+    "numOfReviews": 230,
+    "images": [
+      {
+        "public_id": "atomic_habits",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/th_7_nilnqe.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Penguin Random House",
+      "logo": {
+        "public_id": "penguin_logo",
+        "url": "https://res.cloudinary.com/demo/image/upload/v1712341300/penguin-logo.png"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "description": "Flagship Android smartphone with powerful performance and stunning camera.",
+    "price": 74999,
+    "cuttedPrice": 82999,
+    "category": "Mobiles",
+    "stock": 20,
+    "ratings": 4.6,
+    "numOfReviews": 134,
+    "images": [
+      {
+        "public_id": "samsung_s23_img1",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744270209/719zApN1mhL._SL1500__luts9u.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Samsung",
+      "logo": {
+        "public_id": "samsung_logo",
+        "url": "https://via.placeholder.com/80x80?text=Samsung"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Sony Bravia 55-inch 4K TV",
+    "description": "55-inch Ultra HD Smart Android LED TV with Dolby Vision and Atmos.",
+    "price": 58999,
+    "cuttedPrice": 69999,
+    "category": "Electronics",
+    "stock": 15,
+    "ratings": 4.4,
+    "numOfReviews": 88,
+    "images": [
+      {
+        "public_id": "sony_tv_img1",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271757/8101XGsOdTL_m5twoj.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Sony",
+      "logo": {
+        "public_id": "sony_logo",
+        "url": "https://via.placeholder.com/80x80?text=Sony"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "Nike Revolution 6 Running Shoes",
+    "description": "Comfortable and stylish running shoes with lightweight cushioning.",
+    "price": 3499,
+    "cuttedPrice": 4499,
+    "category": "Fashion",
+    "stock": 50,
+    "ratings": 4.2,
+    "numOfReviews": 47,
+    "images": [
+      {
+        "public_id": "nike_shoes_img1",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/th_1_caiiqw.jpg"
+      }
+    ],
+    "brand": {
+      "name": "Nike",
+      "logo": {
+        "public_id": "nike_logo",
+        "url": "https://via.placeholder.com/80x80?text=Nike"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  },
+  {
+    "name": "HP Pavilion Gaming Laptop",
+    "description": "Powerful laptop with Ryzen 5, GTX 1650, and 512GB SSD storage.",
+    "price": 63999,
+    "cuttedPrice": 74999,
+    "category": "Electronics",
+    "stock": 12,
+    "ratings": 4.5,
+    "numOfReviews": 102,
+    "images": [
+      {
+        "public_id": "hp_pavilion_img1",
+        "url": "https://res.cloudinary.com/dcdqgwves/image/upload/v1744271756/71c4zWesnGL_m4eynw.jpg"
+      }
+    ],
+    "brand": {
+      "name": "HP",
+      "logo": {
+        "public_id": "hp_logo",
+        "url": "https://via.placeholder.com/80x80?text=HP"
+      }
+    },
+    "user": "67f74d94ecf7d249c43b5932"
+  }
+
+]
